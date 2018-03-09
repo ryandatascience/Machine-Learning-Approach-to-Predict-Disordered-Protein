@@ -1,6 +1,6 @@
 #Date 11-29-2017
 #Tensorflow CNN for disorder protein data
-#Chengbin
+#Yu Liang
 from __future__ import print_function
 import sys
 import numpy as np
